@@ -5,6 +5,12 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-mmoura&show_icons=true&theme=tokyonight&card_width=820"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-mmoura&layout=compact&theme=tokyonight&card_width=380"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
