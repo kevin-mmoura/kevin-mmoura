@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-mmoura&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-mmoura" /> </p>
 
-- 🔭 Eu estou trabalhando no [BasicChainJS](https://github.com/kevin-mmoura/BasicChainJS.git)
+- 🔭 Eu estou trabalhando no projeto [BasicChainJS](https://github.com/kevin-mmoura/BasicChainJS.git)
 
-- 🌱 Eu estou estudando sobre **Blockchain**
+- 🌱 Eu estou estudando sobre **Blockchain e Backend**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
