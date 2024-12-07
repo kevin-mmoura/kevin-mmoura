@@ -26,7 +26,7 @@ void fetchUserProfile() {
     UserProfile userProfile;
 
     userProfile.name = "Kevin Moura";
-    userProfile.birthDate = "12/09/2009";
+    userProfile.birthDate = "08/12/2009";
     userProfile.gender = "Male";
     userProfile.nationality = "Brazil";
     userProfile.programmingLanguages = "C, C++, Javascript";
