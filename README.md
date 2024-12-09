@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=777777&width=450&lines=Hello World, I'm Kevin Moura" alt="Instagram">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=777777&width=450&lines=Hello World, I'm Kevin Moura">
 </p>
 
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <a href="https://instagram.com/@kevin_mmoura" target="_blank">
+    <a href="https://instagram.com/kevin_mmoura.dev" target="_blank">
         <img src="https://img.shields.io/badge/@kevin_mmoura.dev-gray?logo=instagram" alt="Instagram">
     </a>
 </p>
